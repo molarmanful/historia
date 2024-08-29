@@ -12,8 +12,7 @@ export default {
     presetUno(),
     presetAnimations(),
     presetShadcn({
-      color: 'red',
-      darkSelector: '[data-kb-theme="dark"]',
+      color: 'gray',
     }),
   ],
 
